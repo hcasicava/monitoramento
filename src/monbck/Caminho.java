@@ -13,6 +13,7 @@ import static monbck.tamanho.vtamanho;
  */
 public class Caminho {
 
+    
     static final String caminhoInicial="\\\\storage\\BACKUP\\VIAPAR\\DIARIO\\";
         
         
